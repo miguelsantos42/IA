@@ -1,6 +1,6 @@
 # Unidade Curricular: Inteligência Artificial (IA) - 3º Ano
 
-This repository contains all the assigments of the UC Inteligência Artificial, taught by Luís Paulo Reis and Henrique Lopes Cardoso at Informating and Computing Engineering [LEIC] at the Faculty of Engineering of the University of Porto [FEUP].
+Este repositório contém todos os trabalhos da UC Inteligência Artificial, lecionada por Luís Paulo Reis e Henrique Lopes Cardoso no curso de Engenharia Informática e Computação [LEIC] da Faculdade de Engenharia da Universidade do Porto [FEUP].
 
 ## Objetivos
 Esta unidade curricular apresenta um conjunto de assuntos nucleares para a área da Inteligência Artificial (IA) e dos Sistemas Inteligentes. Os objetivos principais são:
